@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RESPONSI KODE A</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="title_activity_lihat_lokasi_cafe">LihatLokasiCafeActivity</string>
+    <string name="update">Update</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="name">Name</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="daftar_karyawan">Daftar Karyawan</string>
+    <string name="tambah_karyawan">Tambah Karyawan</string>
+    <string name="no_hp">No Hp : 08xxxxxxxxxxx</string>
+    <string name="alamat">Alamat : JL. Entah Berantah, No. 69</string>
+    <string name="nama">Nama : Users</string>
+    <string name="save">Save</string>
+</resources>
